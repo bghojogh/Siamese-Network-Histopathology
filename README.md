@@ -8,5 +8,5 @@ This is the code for the following paper:
 
 - arXiv link of paper: https://arxiv.org/abs/2005.08629
 
-- IEEE link of paper: https://ieeexplore.ieee.org/document/9176279
+- IEEE Xplore link of paper: https://ieeexplore.ieee.org/document/9176279
 
