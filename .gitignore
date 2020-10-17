@@ -1,129 +1,59 @@
-# Byte-compiled / optimized / DLL files
-__pycache__/
-*.py[cod]
-*$py.class
+1_creating_triplets/CRC_dataset/1_code_triplet_CRC/.idea/
+1_creating_triplets/CRC_dataset/1_code_triplet_CRC/__pycache__/
+1_creating_triplets/CRC_dataset/1_code_triplet_CRC/venv/
+1_creating_triplets/CRC_dataset/1_code_triplet_CRC/.vscode/
 
-# C extensions
-*.so
+1_creating_triplets/CRC_dataset/2_code_notTriplet_CRC/.idea/
+1_creating_triplets/CRC_dataset/2_code_notTriplet_CRC/__pycache__/
+1_creating_triplets/CRC_dataset/2_code_notTriplet_CRC/venv/
+1_creating_triplets/CRC_dataset/2_code_notTriplet_CRC/.vscode/
 
-# Distribution / packaging
-.Python
-build/
-develop-eggs/
-dist/
-downloads/
-eggs/
-.eggs/
-lib/
-lib64/
-parts/
-sdist/
-var/
-wheels/
-pip-wheel-metadata/
-share/python-wheels/
-*.egg-info/
-.installed.cfg
-*.egg
-MANIFEST
+1_creating_triplets/TCGA_dataset/1_TripletAddressTiles/.idea/
+1_creating_triplets/TCGA_dataset/1_TripletAddressTiles/__pycache__/
+1_creating_triplets/TCGA_dataset/1_TripletAddressTiles/venv/
+1_creating_triplets/TCGA_dataset/1_TripletAddressTiles/.vscode/
 
-# PyInstaller
-#  Usually these files are written by a python script from a template
-#  before PyInstaller builds the exe, so as to inject date/other infos into it.
-*.manifest
-*.spec
+1_creating_triplets/TCGA_dataset/2_TfRecordGeneration (old)/.idea/
+1_creating_triplets/TCGA_dataset/2_TfRecordGeneration (old)/__pycache__/
+1_creating_triplets/TCGA_dataset/2_TfRecordGeneration (old)/venv/
+1_creating_triplets/TCGA_dataset/2_TfRecordGeneration (old)/.vscode/
 
-# Installer logs
-pip-log.txt
-pip-delete-this-directory.txt
+1_creating_triplets/TCGA_dataset/3_CreateTriplets_npy/.idea/
+1_creating_triplets/TCGA_dataset/3_CreateTriplets_npy/__pycache__/
+1_creating_triplets/TCGA_dataset/3_CreateTriplets_npy/venv/
+1_creating_triplets/TCGA_dataset/3_CreateTriplets_npy/.vscode/
 
-# Unit test / coverage reports
-htmlcov/
-.tox/
-.nox/
-.coverage
-.coverage.*
-.cache
-nosetests.xml
-coverage.xml
-*.cover
-*.py,cover
-.hypothesis/
-.pytest_cache/
+1_creating_triplets/TCGA_dataset/3_CreateTriplets_tfrecords/.idea/
+1_creating_triplets/TCGA_dataset/3_CreateTriplets_tfrecords/__pycache__/
+1_creating_triplets/TCGA_dataset/3_CreateTriplets_tfrecords/venv/
+1_creating_triplets/TCGA_dataset/3_CreateTriplets_tfrecords/.vscode/
 
-# Translations
-*.mo
-*.pot
+1_creating_triplets/TCGA_dataset/4_code_triplet_TCGA_from_already_csv (create trplet from 20x images)/.idea/
+1_creating_triplets/TCGA_dataset/4_code_triplet_TCGA_from_already_csv (create trplet from 20x images)/__pycache__/
+1_creating_triplets/TCGA_dataset/4_code_triplet_TCGA_from_already_csv (create trplet from 20x images)/venv/
+1_creating_triplets/TCGA_dataset/4_code_triplet_TCGA_from_already_csv (create trplet from 20x images)/.vscode/
 
-# Django stuff:
-*.log
-local_settings.py
-db.sqlite3
-db.sqlite3-journal
+1_creating_triplets/TCGA_dataset/4_TripletsFromWSI (create trplet from 20x images)/.vscode/
 
-# Flask stuff:
-instance/
-.webassets-cache
+1_creating_triplets/TCGA_dataset/5_code_triplet_TCGA_from_scratch (not complete)/.idea/
+1_creating_triplets/TCGA_dataset/5_code_triplet_TCGA_from_scratch (not complete)/__pycache__/
+1_creating_triplets/TCGA_dataset/5_code_triplet_TCGA_from_scratch (not complete)/venv/
+1_creating_triplets/TCGA_dataset/5_code_triplet_TCGA_from_scratch (not complete)/.vscode/
 
-# Scrapy stuff:
-.scrapy
+2_Siamese_TCGA_Source_CRC_Target/.idea/
+2_Siamese_TCGA_Source_CRC_Target/__pycache__/
+2_Siamese_TCGA_Source_CRC_Target/venv/
+2_Siamese_TCGA_Source_CRC_Target/.vscode/
 
-# Sphinx documentation
-docs/_build/
+3_Siamese_CRC_Source_CRC_Target/.idea/
+3_Siamese_CRC_Source_CRC_Target/__pycache__/
+3_Siamese_CRC_Source_CRC_Target/venv/
+3_Siamese_CRC_Source_CRC_Target/.vscode/
 
-# PyBuilder
-target/
+4_Supervised_Crossentropy_ResNet_CRC/.idea/
+4_Supervised_Crossentropy_ResNet_CRC/__pycache__/
+4_Supervised_Crossentropy_ResNet_CRC/venv/
+4_Supervised_Crossentropy_ResNet_CRC/.vscode/
 
-# Jupyter Notebook
-.ipynb_checkpoints
 
-# IPython
-profile_default/
-ipython_config.py
 
-# pyenv
-.python-version
-
-# pipenv
-#   According to pypa/pipenv#598, it is recommended to include Pipfile.lock in version control.
-#   However, in case of collaboration, if having platform-specific dependencies or dependencies
-#   having no cross-platform support, pipenv may install dependencies that don't work, or not
-#   install all needed dependencies.
-#Pipfile.lock
-
-# PEP 582; used by e.g. github.com/David-OConnor/pyflow
-__pypackages__/
-
-# Celery stuff
-celerybeat-schedule
-celerybeat.pid
-
-# SageMath parsed files
-*.sage.py
-
-# Environments
-.env
-.venv
-env/
-venv/
-ENV/
-env.bak/
-venv.bak/
-
-# Spyder project settings
-.spyderproject
-.spyproject
-
-# Rope project settings
-.ropeproject
-
-# mkdocs documentation
-/site
-
-# mypy
-.mypy_cache/
-.dmypy.json
-dmypy.json
-
-# Pyre type checker
-.pyre/
